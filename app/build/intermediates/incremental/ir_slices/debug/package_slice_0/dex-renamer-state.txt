@@ -1,0 +1,4 @@
+#Wed Feb 19 14:16:10 ICT 2020
+base.0=E\:\\6706184042\\DessertPusher\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
